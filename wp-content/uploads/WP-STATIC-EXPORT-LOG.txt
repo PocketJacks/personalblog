@@ -1,0 +1,738 @@
+2020-08-29 01:50:46
+PHP VERSION 7.3.21
+OS VERSION Windows NT DESKTOP-6NB9GCT 10.0 build 18362 (Windows 10) AMD64
+WP VERSION 5.5
+WP URL http://localhost/wordpress
+WP SITEURL http://localhost/wordpress
+WP HOME http://localhost/wordpress
+WP ADDRESS http://localhost/wordpress
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://Pocketjacks.github.io/jigardshah/
+PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache/2.4.46 (Win64) PHP/7.3.21
+Active plugins:
+package/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+com_dotnet
+fileinfo
+gd
+gettext
+gmp
+intl
+imap
+ldap
+mbstring
+exif
+mysqli
+Phar
+pdo_mysql
+pdo_sqlite
+soap
+sockets
+sqlite3
+xmlrpc
+xsl
+Zend OPcache
+xdebug
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /sample-page/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/08/29/hello-world/
+Adding discovered URL: /author/admin/
+Adding discovered URL: /2020/08/
+SAVING / to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/08/29/hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/08/29/hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/posts/1
+Adding discovered URL: /2020/08/29/hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /sample-page/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /author/admin/
+Adding discovered URL: /2020/08/
+SAVING /2020/08/29/hello-world/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/2020/08/29/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/
+BAD RESPONSE STATUS (404): /category/uncategorized/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/page/1
+BAD RESPONSE STATUS (404): /category/uncategorized/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /sample-page/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/08/29/hello-world/
+Adding discovered URL: /author/admin/
+Adding discovered URL: /2020/08/
+SAVING /page/1 to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sample-page/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /sample-page/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/pages/2
+Adding discovered URL: /sample-page/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-admin/
+Adding discovered URL: /2020/08/29/hello-world/
+Adding discovered URL: /2020/08/
+Adding discovered URL: /category/uncategorized/
+SAVING /sample-page/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/\/sample-page/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+SAVING /sitemap.xml to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/\/sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/
+BAD RESPONSE STATUS (404): /wordpress/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/
+BAD RESPONSE STATUS (404): /wordpress/2020/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/08/
+BAD RESPONSE STATUS (404): /wordpress/2020/08/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/08/29/
+BAD RESPONSE STATUS (404): /wordpress/2020/08/29/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/2020/08/29/hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/08/29/hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/posts/1
+Adding discovered URL: /2020/08/29/hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /sample-page/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /author/admin/
+Adding discovered URL: /2020/08/
+SAVING /wordpress/2020/08/29/hello-world/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wordpress/2020/08/29/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress/sample-page/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /sample-page/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/pages/2
+Adding discovered URL: /sample-page/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-admin/
+Adding discovered URL: /2020/08/29/hello-world/
+Adding discovered URL: /2020/08/
+Adding discovered URL: /category/uncategorized/
+SAVING /wordpress/sample-page/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wordpress/sample-page/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\css/editor-style-block-rtl.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\css/editor-style-block.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\css/editor-style-classic-rtl.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\css/editor-style-classic.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\images/2020-landscape-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\images/2020-landscape-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-1.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\images/2020-square-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-2.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\images/2020-square-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\color-calculations.js
+SAVING /wp-content/themes/twentytwenty\assets\js\color-calculations.js to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\js/color-calculations.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize-controls.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-controls.js to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\js/customize-controls.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize-preview.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-preview.js to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\js/customize-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize.js to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\js/customize.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\editor-script-block.js
+SAVING /wp-content/themes/twentytwenty\assets\js\editor-script-block.js to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\js/editor-script-block.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\index.js
+SAVING /wp-content/themes/twentytwenty\assets\js\index.js to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\js/index.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js
+SAVING /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty\assets\js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\package-lock.json
+SAVING /wp-content/themes/twentytwenty\package-lock.json to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/package-lock.json
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\print.css
+SAVING /wp-content/themes/twentytwenty\print.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/print.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\screenshot.png
+SAVING /wp-content/themes/twentytwenty\screenshot.png to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/screenshot.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\style-rtl.css
+SAVING /wp-content/themes/twentytwenty\style-rtl.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/style-rtl.css
+Memory allocated by crawl script: 8192
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\style.css
+SAVING /wp-content/themes/twentytwenty\style.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /2020/08/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /sample-page/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/08/29/hello-world/
+Adding discovered URL: /author/admin/
+Adding discovered URL: /2020/08/
+SAVING /2020/08/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/2020/08/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/08/29/hello-world/feed/
+SAVING /2020/08/29/hello-world/feed/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/2020/08/29/hello-world/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /author/admin/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /author/admin/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/users/1
+Adding discovered URL: /
+Adding discovered URL: /sample-page/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/08/29/hello-world/
+Adding discovered URL: /author/admin/
+Adding discovered URL: /2020/08/
+SAVING /author/admin/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/author/admin/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/\/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sample-page/feed/
+SAVING /sample-page/feed/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/sample-page/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-admin/
+Adding discovered URL: /wp-includes/css/dashicons.min.css
+Adding discovered URL: /wp-includes/css/buttons.min.css
+Adding discovered URL: /wp-admin/css/forms.min.css
+Adding discovered URL: /wp-admin/css/l10n.min.css
+Adding discovered URL: /wp-admin/css/login.min.css
+Adding discovered URL: /
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/zxcvbn-async.min.js
+Adding discovered URL: /wp-includes/js/dist/vendor/wp-polyfill.min.js
+Adding discovered URL: /wp-includes/js/dist/i18n.min.js
+Adding discovered URL: /wp-admin/js/password-strength-meter.min.js
+Adding discovered URL: /wp-includes/js/underscore.min.js
+Adding discovered URL: /wp-includes/js/wp-util.min.js
+Adding discovered URL: /wp-admin/js/user-profile.min.js
+SAVING /wp-admin/ to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/\/wp-admin/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/assets/js/index.js
+SAVING /wp-content/themes/twentytwenty/assets/js/index.js to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/js/index.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/print.css
+SAVING /wp-content/themes/twentytwenty/print.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/print.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty/style.css
+SAVING /wp-content/themes/twentytwenty/style.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/style.css
+Memory allocated by crawl script: 8192
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/pages/2 because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/posts/1 because of rule wp-json
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/2020/08/29/hello-world/feed/index.html to 2020/08/29/hello-world/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating 2020/08/29/hello-world/feed/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"2020/08/29/hello-world/feed/index.html","sha":"c17082b3e8056f5d15c5bf182a6bdb6dbcce0433","size":1738,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/2020/08/29/hello-world/feed/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/2020/08/29/hello-world/feed/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/c17082b3e8056f5d15c5bf182a6bdb6dbcce0433","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/2020/08/29/hello-world/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/2020/08/29/hello-world/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/c17082b3e8056f5d15c5bf182a6bdb6dbcce0433","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/2020/08/29/hello-world/feed/index.html"}},"commit":{"sha":"69109afc5ac0242b2902b6166f2b2958f7110fef","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjY5MTA5YWZjNWFjMDI0MmIyOTAyYjYxNjZmMmIyOTU4ZjcxMTBmZWY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/69109afc5ac0242b2902b6166f2b2958f7110fef","html_url":"https://github.com/PocketJacks/jigardshah/commit/69109afc5ac0242b2902b6166f2b2958f7110fef","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:11Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:11Z"},"tree":{"sha":"124e8d0dc22b6fff8442593bb2c026c270e0d9d7","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/124e8d0dc22b6fff8442593bb2c026c270e0d9d7"},"message":"WP2Static CREATE 2020/08/29/hello-world/feed/index.html","parents":[{"sha":"f9d2f0eef5e996f3c7ff693a5d52ea9a74a90991","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/f9d2f0eef5e996f3c7ff693a5d52ea9a74a90991","html_url":"https://github.com/PocketJacks/jigardshah/commit/f9d2f0eef5e996f3c7ff693a5d52ea9a74a90991"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/2020/08/29/hello-world/index.html to 2020/08/29/hello-world/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating 2020/08/29/hello-world/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"2020/08/29/hello-world/index.html","sha":"9cb1f3bee3014ef42eb1a6bd867ca7411353d472","size":25824,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/2020/08/29/hello-world/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/2020/08/29/hello-world/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/9cb1f3bee3014ef42eb1a6bd867ca7411353d472","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/2020/08/29/hello-world/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/2020/08/29/hello-world/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/9cb1f3bee3014ef42eb1a6bd867ca7411353d472","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/2020/08/29/hello-world/index.html"}},"commit":{"sha":"d41eb3e7ba070c856eb7f2a869b1f68886b73dc4","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmQ0MWViM2U3YmEwNzBjODU2ZWI3ZjJhODY5YjFmNjg4ODZiNzNkYzQ=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/d41eb3e7ba070c856eb7f2a869b1f68886b73dc4","html_url":"https://github.com/PocketJacks/jigardshah/commit/d41eb3e7ba070c856eb7f2a869b1f68886b73dc4","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:14Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:14Z"},"tree":{"sha":"57a60282650d62bb89d10746f0e191075a4e9811","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/57a60282650d62bb89d10746f0e191075a4e9811"},"message":"WP2Static CREATE 2020/08/29/hello-world/index.html","parents":[{"sha":"69109afc5ac0242b2902b6166f2b2958f7110fef","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/69109afc5ac0242b2902b6166f2b2958f7110fef","html_url":"https://github.com/PocketJacks/jigardshah/commit/69109afc5ac0242b2902b6166f2b2958f7110fef"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/2020/08/index.html to 2020/08/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating 2020/08/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"2020/08/index.html","sha":"29be5d06dc912a6a72626c33670216b5f04065ba","size":22136,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/2020/08/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/2020/08/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/29be5d06dc912a6a72626c33670216b5f04065ba","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/2020/08/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/2020/08/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/29be5d06dc912a6a72626c33670216b5f04065ba","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/2020/08/index.html"}},"commit":{"sha":"08d1034d0c8823b7b863055a3a5bb619c8c28739","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjA4ZDEwMzRkMGM4ODIzYjdiODYzMDU1YTNhNWJiNjE5YzhjMjg3Mzk=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/08d1034d0c8823b7b863055a3a5bb619c8c28739","html_url":"https://github.com/PocketJacks/jigardshah/commit/08d1034d0c8823b7b863055a3a5bb619c8c28739","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:15Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:15Z"},"tree":{"sha":"ca9be7ac3cc91a4159ecb22442c4c8ebab46ce25","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/ca9be7ac3cc91a4159ecb22442c4c8ebab46ce25"},"message":"WP2Static CREATE 2020/08/index.html","parents":[{"sha":"d41eb3e7ba070c856eb7f2a869b1f68886b73dc4","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/d41eb3e7ba070c856eb7f2a869b1f68886b73dc4","html_url":"https://github.com/PocketJacks/jigardshah/commit/d41eb3e7ba070c856eb7f2a869b1f68886b73dc4"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/author/admin/index.html to author/admin/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating author/admin/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"author/admin/index.html","sha":"0e0be003a146d2d9aa5fa84b0ee17af2e3da81d2","size":22150,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/author/admin/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/author/admin/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/0e0be003a146d2d9aa5fa84b0ee17af2e3da81d2","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/author/admin/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/author/admin/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/0e0be003a146d2d9aa5fa84b0ee17af2e3da81d2","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/author/admin/index.html"}},"commit":{"sha":"795e2e391755f17b73ea23ed90d028e562095470","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjc5NWUyZTM5MTc1NWYxN2I3M2VhMjNlZDkwZDAyOGU1NjIwOTU0NzA=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/795e2e391755f17b73ea23ed90d028e562095470","html_url":"https://github.com/PocketJacks/jigardshah/commit/795e2e391755f17b73ea23ed90d028e562095470","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:17Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:17Z"},"tree":{"sha":"7558d6169c8ebf827024298b531c004e9ccc5dd8","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/7558d6169c8ebf827024298b531c004e9ccc5dd8"},"message":"WP2Static CREATE author/admin/index.html","parents":[{"sha":"08d1034d0c8823b7b863055a3a5bb619c8c28739","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/08d1034d0c8823b7b863055a3a5bb619c8c28739","html_url":"https://github.com/PocketJacks/jigardshah/commit/08d1034d0c8823b7b863055a3a5bb619c8c28739"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/comments/feed/index.html to comments/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating comments/feed/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"comments/feed/index.html","sha":"0815def4140c365f6a6e607205da6542b132bf92","size":1720,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/comments/feed/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/comments/feed/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/0815def4140c365f6a6e607205da6542b132bf92","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/comments/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/comments/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/0815def4140c365f6a6e607205da6542b132bf92","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/comments/feed/index.html"}},"commit":{"sha":"0892dc2d56eb53da8e21155d225c409e66e8c313","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjA4OTJkYzJkNTZlYjUzZGE4ZTIxMTU1ZDIyNWM0MDllNjZlOGMzMTM=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/0892dc2d56eb53da8e21155d225c409e66e8c313","html_url":"https://github.com/PocketJacks/jigardshah/commit/0892dc2d56eb53da8e21155d225c409e66e8c313","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:18Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:18Z"},"tree":{"sha":"d339aab8394e54541bb3e238efd237b5b3ae65b0","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/d339aab8394e54541bb3e238efd237b5b3ae65b0"},"message":"WP2Static CREATE comments/feed/index.html","parents":[{"sha":"795e2e391755f17b73ea23ed90d028e562095470","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/795e2e391755f17b73ea23ed90d028e562095470","html_url":"https://github.com/PocketJacks/jigardshah/commit/795e2e391755f17b73ea23ed90d028e562095470"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/feed/index.html to feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating feed/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"feed/index.html","sha":"3f072c344410f0d5b742ec0f53f630341b93b803","size":1781,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/feed/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/feed/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3f072c344410f0d5b742ec0f53f630341b93b803","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3f072c344410f0d5b742ec0f53f630341b93b803","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/feed/index.html"}},"commit":{"sha":"d93772915fefa0c9bd7683b07ad85631a95821f2","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmQ5Mzc3MjkxNWZlZmEwYzliZDc2ODNiMDdhZDg1NjMxYTk1ODIxZjI=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/d93772915fefa0c9bd7683b07ad85631a95821f2","html_url":"https://github.com/PocketJacks/jigardshah/commit/d93772915fefa0c9bd7683b07ad85631a95821f2","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:20Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:20Z"},"tree":{"sha":"bb6663aeb47d56f41e02fcdd87b2b116fd6ae85b","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/bb6663aeb47d56f41e02fcdd87b2b116fd6ae85b"},"message":"WP2Static CREATE feed/index.html","parents":[{"sha":"0892dc2d56eb53da8e21155d225c409e66e8c313","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/0892dc2d56eb53da8e21155d225c409e66e8c313","html_url":"https://github.com/PocketJacks/jigardshah/commit/0892dc2d56eb53da8e21155d225c409e66e8c313"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/index.html to index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"index.html","sha":"466259305afc22ff26cc6abc3df901b368acb428","size":21834,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/466259305afc22ff26cc6abc3df901b368acb428","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/466259305afc22ff26cc6abc3df901b368acb428","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/index.html"}},"commit":{"sha":"4c29c92739505d93a8ddc8679e5c2e4b0443ffe0","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjRjMjljOTI3Mzk1MDVkOTNhOGRkYzg2NzllNWMyZTRiMDQ0M2ZmZTA=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/4c29c92739505d93a8ddc8679e5c2e4b0443ffe0","html_url":"https://github.com/PocketJacks/jigardshah/commit/4c29c92739505d93a8ddc8679e5c2e4b0443ffe0","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:22Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:22Z"},"tree":{"sha":"4553d8c4a6c3a3178aa8cbf0999361cb45a553d9","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/4553d8c4a6c3a3178aa8cbf0999361cb45a553d9"},"message":"WP2Static CREATE index.html","parents":[{"sha":"d93772915fefa0c9bd7683b07ad85631a95821f2","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/d93772915fefa0c9bd7683b07ad85631a95821f2","html_url":"https://github.com/PocketJacks/jigardshah/commit/d93772915fefa0c9bd7683b07ad85631a95821f2"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/page/1/index.html to page/1/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating page/1/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"page/1/index.html","sha":"466259305afc22ff26cc6abc3df901b368acb428","size":21834,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/page/1/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/page/1/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/466259305afc22ff26cc6abc3df901b368acb428","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/page/1/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/page/1/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/466259305afc22ff26cc6abc3df901b368acb428","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/page/1/index.html"}},"commit":{"sha":"5d3f86aa16bfbde4e30f3e4d42ceafbace4c30ff","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjVkM2Y4NmFhMTZiZmJkZTRlMzBmM2U0ZDQyY2VhZmJhY2U0YzMwZmY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/5d3f86aa16bfbde4e30f3e4d42ceafbace4c30ff","html_url":"https://github.com/PocketJacks/jigardshah/commit/5d3f86aa16bfbde4e30f3e4d42ceafbace4c30ff","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:23Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:23Z"},"tree":{"sha":"82b8588ef641a11b22d945e3499ffcdcff492e3b","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/82b8588ef641a11b22d945e3499ffcdcff492e3b"},"message":"WP2Static CREATE page/1/index.html","parents":[{"sha":"4c29c92739505d93a8ddc8679e5c2e4b0443ffe0","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/4c29c92739505d93a8ddc8679e5c2e4b0443ffe0","html_url":"https://github.com/PocketJacks/jigardshah/commit/4c29c92739505d93a8ddc8679e5c2e4b0443ffe0"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/sample-page/feed/index.html to sample-page/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating sample-page/feed/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"sample-page/feed/index.html","sha":"a9e65aa68212a8cad9c6596588247ca2c641560d","size":776,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/sample-page/feed/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/sample-page/feed/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/a9e65aa68212a8cad9c6596588247ca2c641560d","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/sample-page/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/sample-page/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/a9e65aa68212a8cad9c6596588247ca2c641560d","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/sample-page/feed/index.html"}},"commit":{"sha":"6153d54b8780eba9717e19d0d7478e86168df7a9","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjYxNTNkNTRiODc4MGViYTk3MTdlMTlkMGQ3NDc4ZTg2MTY4ZGY3YTk=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/6153d54b8780eba9717e19d0d7478e86168df7a9","html_url":"https://github.com/PocketJacks/jigardshah/commit/6153d54b8780eba9717e19d0d7478e86168df7a9","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:25Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:25Z"},"tree":{"sha":"efe3e72f523180fd9a34727bb90b20f46ac33028","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/efe3e72f523180fd9a34727bb90b20f46ac33028"},"message":"WP2Static CREATE sample-page/feed/index.html","parents":[{"sha":"5d3f86aa16bfbde4e30f3e4d42ceafbace4c30ff","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/5d3f86aa16bfbde4e30f3e4d42ceafbace4c30ff","html_url":"https://github.com/PocketJacks/jigardshah/commit/5d3f86aa16bfbde4e30f3e4d42ceafbace4c30ff"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/sample-page/index.html to sample-page/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating sample-page/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"sample-page/index.html","sha":"e2c60e5b15a8aa89e173731efba3c024451c30e0","size":17950,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/sample-page/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/sample-page/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/e2c60e5b15a8aa89e173731efba3c024451c30e0","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/sample-page/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/sample-page/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/e2c60e5b15a8aa89e173731efba3c024451c30e0","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/sample-page/index.html"}},"commit":{"sha":"419f8be7d97c035cb7a6d9d6fc8903bcf327dd90","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjQxOWY4YmU3ZDk3YzAzNWNiN2E2ZDlkNmZjODkwM2JjZjMyN2RkOTA=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/419f8be7d97c035cb7a6d9d6fc8903bcf327dd90","html_url":"https://github.com/PocketJacks/jigardshah/commit/419f8be7d97c035cb7a6d9d6fc8903bcf327dd90","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:26Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:26Z"},"tree":{"sha":"50f891d821678d641cf925247aaa330ba0dc6df4","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/50f891d821678d641cf925247aaa330ba0dc6df4"},"message":"WP2Static CREATE sample-page/index.html","parents":[{"sha":"6153d54b8780eba9717e19d0d7478e86168df7a9","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/6153d54b8780eba9717e19d0d7478e86168df7a9","html_url":"https://github.com/PocketJacks/jigardshah/commit/6153d54b8780eba9717e19d0d7478e86168df7a9"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/sitemap.xml to sitemap.xml in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating sitemap.xml in GitHub
+API response code 201
+API response body {"content":{"name":"sitemap.xml","path":"sitemap.xml","sha":"7b96cb8432abfdb44bd7190bb84b7828b1dd9a24","size":622,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/sitemap.xml?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/sitemap.xml","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/7b96cb8432abfdb44bd7190bb84b7828b1dd9a24","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/sitemap.xml","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/sitemap.xml?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/7b96cb8432abfdb44bd7190bb84b7828b1dd9a24","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/sitemap.xml"}},"commit":{"sha":"ab6ac66919478cdf789a82bac90705e2a68bc507","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmFiNmFjNjY5MTk0NzhjZGY3ODlhODJiYWM5MDcwNWUyYTY4YmM1MDc=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/ab6ac66919478cdf789a82bac90705e2a68bc507","html_url":"https://github.com/PocketJacks/jigardshah/commit/ab6ac66919478cdf789a82bac90705e2a68bc507","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:28Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:28Z"},"tree":{"sha":"2cb48643a87cc50ca1e42d55156554dd3b31146e","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/2cb48643a87cc50ca1e42d55156554dd3b31146e"},"message":"WP2Static CREATE sitemap.xml","parents":[{"sha":"419f8be7d97c035cb7a6d9d6fc8903bcf327dd90","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/419f8be7d97c035cb7a6d9d6fc8903bcf327dd90","html_url":"https://github.com/PocketJacks/jigardshah/commit/419f8be7d97c035cb7a6d9d6fc8903bcf327dd90"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wordpress/2020/08/29/hello-world/index.html to wordpress/2020/08/29/hello-world/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wordpress/2020/08/29/hello-world/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"wordpress/2020/08/29/hello-world/index.html","sha":"9cb1f3bee3014ef42eb1a6bd867ca7411353d472","size":25824,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wordpress/2020/08/29/hello-world/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wordpress/2020/08/29/hello-world/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/9cb1f3bee3014ef42eb1a6bd867ca7411353d472","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wordpress/2020/08/29/hello-world/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wordpress/2020/08/29/hello-world/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/9cb1f3bee3014ef42eb1a6bd867ca7411353d472","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wordpress/2020/08/29/hello-world/index.html"}},"commit":{"sha":"c6e65cd5c9dffebad2ae0b38ae78fb020f04dec7","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmM2ZTY1Y2Q1YzlkZmZlYmFkMmFlMGIzOGFlNzhmYjAyMGYwNGRlYzc=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/c6e65cd5c9dffebad2ae0b38ae78fb020f04dec7","html_url":"https://github.com/PocketJacks/jigardshah/commit/c6e65cd5c9dffebad2ae0b38ae78fb020f04dec7","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:30Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:30Z"},"tree":{"sha":"53fa0cc400b7ea6a99ec3f5177eb798368739e05","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/53fa0cc400b7ea6a99ec3f5177eb798368739e05"},"message":"WP2Static CREATE wordpress/2020/08/29/hello-world/index.html","parents":[{"sha":"ab6ac66919478cdf789a82bac90705e2a68bc507","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/ab6ac66919478cdf789a82bac90705e2a68bc507","html_url":"https://github.com/PocketJacks/jigardshah/commit/ab6ac66919478cdf789a82bac90705e2a68bc507"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wordpress/sample-page/index.html to wordpress/sample-page/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wordpress/sample-page/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"wordpress/sample-page/index.html","sha":"e2c60e5b15a8aa89e173731efba3c024451c30e0","size":17950,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wordpress/sample-page/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wordpress/sample-page/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/e2c60e5b15a8aa89e173731efba3c024451c30e0","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wordpress/sample-page/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wordpress/sample-page/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/e2c60e5b15a8aa89e173731efba3c024451c30e0","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wordpress/sample-page/index.html"}},"commit":{"sha":"306397ae90d11029c2d74cb246407f05e2ec269b","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjMwNjM5N2FlOTBkMTEwMjljMmQ3NGNiMjQ2NDA3ZjA1ZTJlYzI2OWI=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/306397ae90d11029c2d74cb246407f05e2ec269b","html_url":"https://github.com/PocketJacks/jigardshah/commit/306397ae90d11029c2d74cb246407f05e2ec269b","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:31Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:31Z"},"tree":{"sha":"0bc37f252bb49bb75a36e64e8a72b7ab5ae54bac","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/0bc37f252bb49bb75a36e64e8a72b7ab5ae54bac"},"message":"WP2Static CREATE wordpress/sample-page/index.html","parents":[{"sha":"c6e65cd5c9dffebad2ae0b38ae78fb020f04dec7","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/c6e65cd5c9dffebad2ae0b38ae78fb020f04dec7","html_url":"https://github.com/PocketJacks/jigardshah/commit/c6e65cd5c9dffebad2ae0b38ae78fb020f04dec7"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-admin/index.html to wp-admin/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-admin/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"wp-admin/index.html","sha":"bcbca7d79d6a1374b686488f72454ce09a30e8f0","size":6714,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-admin/index.html?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-admin/index.html","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/bcbca7d79d6a1374b686488f72454ce09a30e8f0","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-admin/index.html","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-admin/index.html?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/bcbca7d79d6a1374b686488f72454ce09a30e8f0","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-admin/index.html"}},"commit":{"sha":"2fa8180923c69da5f1474c14c35c8932c15f8086","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjJmYTgxODA5MjNjNjlkYTVmMTQ3NGMxNGMzNWM4OTMyYzE1ZjgwODY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/2fa8180923c69da5f1474c14c35c8932c15f8086","html_url":"https://github.com/PocketJacks/jigardshah/commit/2fa8180923c69da5f1474c14c35c8932c15f8086","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:33Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:33Z"},"tree":{"sha":"ab848426d7a21ce4e89cc7a03e6ab254c17b7dc2","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/ab848426d7a21ce4e89cc7a03e6ab254c17b7dc2"},"message":"WP2Static CREATE wp-admin/index.html","parents":[{"sha":"306397ae90d11029c2d74cb246407f05e2ec269b","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/306397ae90d11029c2d74cb246407f05e2ec269b","html_url":"https://github.com/PocketJacks/jigardshah/commit/306397ae90d11029c2d74cb246407f05e2ec269b"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css to wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css in GitHub
+API response code 201
+API response body {"content":{"name":"editor-style-block-rtl.css","path":"wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css","sha":"a842917e698fc134c92b8e790d5adae0af372473","size":33882,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/a842917e698fc134c92b8e790d5adae0af372473","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/a842917e698fc134c92b8e790d5adae0af372473","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css"}},"commit":{"sha":"001597028e0a5e3ec699cbd5bf51ee5883ff0e29","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjAwMTU5NzAyOGUwYTVlM2VjNjk5Y2JkNWJmNTFlZTU4ODNmZjBlMjk=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/001597028e0a5e3ec699cbd5bf51ee5883ff0e29","html_url":"https://github.com/PocketJacks/jigardshah/commit/001597028e0a5e3ec699cbd5bf51ee5883ff0e29","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:34Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:34Z"},"tree":{"sha":"ae054aa7c81cd0e9528ebe6a8f14fcb61872f76d","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/ae054aa7c81cd0e9528ebe6a8f14fcb61872f76d"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css","parents":[{"sha":"2fa8180923c69da5f1474c14c35c8932c15f8086","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/2fa8180923c69da5f1474c14c35c8932c15f8086","html_url":"https://github.com/PocketJacks/jigardshah/commit/2fa8180923c69da5f1474c14c35c8932c15f8086"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/css/editor-style-block.css to wp-content/themes/twentytwenty/assets/css/editor-style-block.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/css/editor-style-block.css in GitHub
+API response code 201
+API response body {"content":{"name":"editor-style-block.css","path":"wp-content/themes/twentytwenty/assets/css/editor-style-block.css","sha":"4ed5458dda7e8c6d7f1f4d093ff5bfd5b6ffc729","size":33875,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/css/editor-style-block.css?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-block.css","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/4ed5458dda7e8c6d7f1f4d093ff5bfd5b6ffc729","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-block.css","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/css/editor-style-block.css?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/4ed5458dda7e8c6d7f1f4d093ff5bfd5b6ffc729","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-block.css"}},"commit":{"sha":"552eb975a06035dd52a917528de335da11ed85ed","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjU1MmViOTc1YTA2MDM1ZGQ1MmE5MTc1MjhkZTMzNWRhMTFlZDg1ZWQ=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/552eb975a06035dd52a917528de335da11ed85ed","html_url":"https://github.com/PocketJacks/jigardshah/commit/552eb975a06035dd52a917528de335da11ed85ed","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:36Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:36Z"},"tree":{"sha":"e4dd46deb787871ac58539b6db11ad05fb134f63","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/e4dd46deb787871ac58539b6db11ad05fb134f63"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/css/editor-style-block.css","parents":[{"sha":"001597028e0a5e3ec699cbd5bf51ee5883ff0e29","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/001597028e0a5e3ec699cbd5bf51ee5883ff0e29","html_url":"https://github.com/PocketJacks/jigardshah/commit/001597028e0a5e3ec699cbd5bf51ee5883ff0e29"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css to wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css in GitHub
+API response code 201
+API response body {"content":{"name":"editor-style-classic-rtl.css","path":"wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css","sha":"3949b3dc5f406298fd95c93ab991538282601e93","size":15210,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3949b3dc5f406298fd95c93ab991538282601e93","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3949b3dc5f406298fd95c93ab991538282601e93","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css"}},"commit":{"sha":"95def57412c7e12f68479ceb1bd59dbf627fe98f","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjk1ZGVmNTc0MTJjN2UxMmY2ODQ3OWNlYjFiZDU5ZGJmNjI3ZmU5OGY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/95def57412c7e12f68479ceb1bd59dbf627fe98f","html_url":"https://github.com/PocketJacks/jigardshah/commit/95def57412c7e12f68479ceb1bd59dbf627fe98f","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:38Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:38Z"},"tree":{"sha":"440ff2257273ee6a67abe18d860b136903b8f634","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/440ff2257273ee6a67abe18d860b136903b8f634"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css","parents":[{"sha":"552eb975a06035dd52a917528de335da11ed85ed","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/552eb975a06035dd52a917528de335da11ed85ed","html_url":"https://github.com/PocketJacks/jigardshah/commit/552eb975a06035dd52a917528de335da11ed85ed"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css to wp-content/themes/twentytwenty/assets/css/editor-style-classic.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/css/editor-style-classic.css in GitHub
+API response code 201
+API response body {"content":{"name":"editor-style-classic.css","path":"wp-content/themes/twentytwenty/assets/css/editor-style-classic.css","sha":"122ee416173918a7ba253af7d291c16a67dd5fdb","size":15199,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/122ee416173918a7ba253af7d291c16a67dd5fdb","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/122ee416173918a7ba253af7d291c16a67dd5fdb","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css"}},"commit":{"sha":"066b7d8a243b52498c77a4e06db19865e066c7c6","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjA2NmI3ZDhhMjQzYjUyNDk4Yzc3YTRlMDZkYjE5ODY1ZTA2NmM3YzY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/066b7d8a243b52498c77a4e06db19865e066c7c6","html_url":"https://github.com/PocketJacks/jigardshah/commit/066b7d8a243b52498c77a4e06db19865e066c7c6","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:39Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:39Z"},"tree":{"sha":"412d410efd4f355bb664c42e12d366a409b2e610","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/412d410efd4f355bb664c42e12d366a409b2e610"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/css/editor-style-classic.css","parents":[{"sha":"95def57412c7e12f68479ceb1bd59dbf627fe98f","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/95def57412c7e12f68479ceb1bd59dbf627fe98f","html_url":"https://github.com/PocketJacks/jigardshah/commit/95def57412c7e12f68479ceb1bd59dbf627fe98f"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 to wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2 in GitHub
+API response code 201
+API response body {"content":{"name":"Inter-italic-var.woff2","path":"wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2","sha":"2300488bdb606932274af888ef9ebb26bd172bcf","size":236832,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/2300488bdb606932274af888ef9ebb26bd172bcf","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/2300488bdb606932274af888ef9ebb26bd172bcf","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2"}},"commit":{"sha":"237e75a29e12d3b887021f6fd27ee55fe25ea831","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjIzN2U3NWEyOWUxMmQzYjg4NzAyMWY2ZmQyN2VlNTVmZTI1ZWE4MzE=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/237e75a29e12d3b887021f6fd27ee55fe25ea831","html_url":"https://github.com/PocketJacks/jigardshah/commit/237e75a29e12d3b887021f6fd27ee55fe25ea831","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:41Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:41Z"},"tree":{"sha":"8ab1c3e2cba0052ef7fd73e0f2d29f3a368c213f","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/8ab1c3e2cba0052ef7fd73e0f2d29f3a368c213f"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2","parents":[{"sha":"066b7d8a243b52498c77a4e06db19865e066c7c6","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/066b7d8a243b52498c77a4e06db19865e066c7c6","html_url":"https://github.com/PocketJacks/jigardshah/commit/066b7d8a243b52498c77a4e06db19865e066c7c6"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 to wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2 in GitHub
+API response code 201
+API response body {"content":{"name":"Inter-upright-var.woff2","path":"wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2","sha":"37d990070423936df6093f33ba19aab29a4c548c","size":223892,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/37d990070423936df6093f33ba19aab29a4c548c","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/37d990070423936df6093f33ba19aab29a4c548c","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2"}},"commit":{"sha":"cd61121301638ccfff56107d6d9f9a7fcae95855","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmNkNjExMjEzMDE2MzhjY2ZmZjU2MTA3ZDZkOWY5YTdmY2FlOTU4NTU=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/cd61121301638ccfff56107d6d9f9a7fcae95855","html_url":"https://github.com/PocketJacks/jigardshah/commit/cd61121301638ccfff56107d6d9f9a7fcae95855","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:44Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:44Z"},"tree":{"sha":"d114ba700462fc43c14da6168a72d3ef68e9fcf9","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/d114ba700462fc43c14da6168a72d3ef68e9fcf9"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2","parents":[{"sha":"237e75a29e12d3b887021f6fd27ee55fe25ea831","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/237e75a29e12d3b887021f6fd27ee55fe25ea831","html_url":"https://github.com/PocketJacks/jigardshah/commit/237e75a29e12d3b887021f6fd27ee55fe25ea831"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png to wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png in GitHub
+API response code 201
+API response body {"content":{"name":"2020-landscape-1.png","path":"wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png","sha":"ab55b91be8ee228e516e2dda0d0166eef3c10724","size":1211,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/ab55b91be8ee228e516e2dda0d0166eef3c10724","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/ab55b91be8ee228e516e2dda0d0166eef3c10724","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png"}},"commit":{"sha":"7584d17d022a7c98caa21f5e787985a5db6a15c1","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjc1ODRkMTdkMDIyYTdjOThjYWEyMWY1ZTc4Nzk4NWE1ZGI2YTE1YzE=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/7584d17d022a7c98caa21f5e787985a5db6a15c1","html_url":"https://github.com/PocketJacks/jigardshah/commit/7584d17d022a7c98caa21f5e787985a5db6a15c1","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:46Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:46Z"},"tree":{"sha":"62c511c3c78e2dbb93da6e94669da9d5e2bf14f5","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/62c511c3c78e2dbb93da6e94669da9d5e2bf14f5"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png","parents":[{"sha":"cd61121301638ccfff56107d6d9f9a7fcae95855","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/cd61121301638ccfff56107d6d9f9a7fcae95855","html_url":"https://github.com/PocketJacks/jigardshah/commit/cd61121301638ccfff56107d6d9f9a7fcae95855"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png to wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png in GitHub
+API response code 201
+API response body {"content":{"name":"2020-landscape-2.png","path":"wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png","sha":"844d377ea5ac28a017cf5a816e0eb370a63f2058","size":6248,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/844d377ea5ac28a017cf5a816e0eb370a63f2058","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/844d377ea5ac28a017cf5a816e0eb370a63f2058","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png"}},"commit":{"sha":"e5e84ee631e2333242aaccbcf71ac70859f252c6","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmU1ZTg0ZWU2MzFlMjMzMzI0MmFhY2NiY2Y3MWFjNzA4NTlmMjUyYzY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/e5e84ee631e2333242aaccbcf71ac70859f252c6","html_url":"https://github.com/PocketJacks/jigardshah/commit/e5e84ee631e2333242aaccbcf71ac70859f252c6","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:47Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:47Z"},"tree":{"sha":"c4b4d404faa74be78d771a65631ed99b3f2924c1","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/c4b4d404faa74be78d771a65631ed99b3f2924c1"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png","parents":[{"sha":"7584d17d022a7c98caa21f5e787985a5db6a15c1","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/7584d17d022a7c98caa21f5e787985a5db6a15c1","html_url":"https://github.com/PocketJacks/jigardshah/commit/7584d17d022a7c98caa21f5e787985a5db6a15c1"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/images/2020-square-1.png to wp-content/themes/twentytwenty/assets/images/2020-square-1.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/images/2020-square-1.png in GitHub
+API response code 201
+API response body {"content":{"name":"2020-square-1.png","path":"wp-content/themes/twentytwenty/assets/images/2020-square-1.png","sha":"3acd76be535268fa08fd09d3bf558cfaed3782ce","size":4201,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-square-1.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-square-1.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3acd76be535268fa08fd09d3bf558cfaed3782ce","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-square-1.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-square-1.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3acd76be535268fa08fd09d3bf558cfaed3782ce","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-square-1.png"}},"commit":{"sha":"775090e4ff1209e75f95f721a2e66f8da652e7d8","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjc3NTA5MGU0ZmYxMjA5ZTc1Zjk1ZjcyMWEyZTY2ZjhkYTY1MmU3ZDg=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/775090e4ff1209e75f95f721a2e66f8da652e7d8","html_url":"https://github.com/PocketJacks/jigardshah/commit/775090e4ff1209e75f95f721a2e66f8da652e7d8","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:49Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:49Z"},"tree":{"sha":"1c2718c2868b2697a14929866f3b9a1c26cd46fd","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/1c2718c2868b2697a14929866f3b9a1c26cd46fd"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/images/2020-square-1.png","parents":[{"sha":"e5e84ee631e2333242aaccbcf71ac70859f252c6","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/e5e84ee631e2333242aaccbcf71ac70859f252c6","html_url":"https://github.com/PocketJacks/jigardshah/commit/e5e84ee631e2333242aaccbcf71ac70859f252c6"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/images/2020-square-2.png to wp-content/themes/twentytwenty/assets/images/2020-square-2.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/images/2020-square-2.png in GitHub
+API response code 201
+API response body {"content":{"name":"2020-square-2.png","path":"wp-content/themes/twentytwenty/assets/images/2020-square-2.png","sha":"e1ab8f8013ea3a6e0e64326c5ac7bda3ceaec42e","size":3366,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-square-2.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-square-2.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/e1ab8f8013ea3a6e0e64326c5ac7bda3ceaec42e","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-square-2.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-square-2.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/e1ab8f8013ea3a6e0e64326c5ac7bda3ceaec42e","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-square-2.png"}},"commit":{"sha":"ad5765049cd88efade6f06864257449b764c69af","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmFkNTc2NTA0OWNkODhlZmFkZTZmMDY4NjQyNTc0NDliNzY0YzY5YWY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/ad5765049cd88efade6f06864257449b764c69af","html_url":"https://github.com/PocketJacks/jigardshah/commit/ad5765049cd88efade6f06864257449b764c69af","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:51Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:51Z"},"tree":{"sha":"9288ec977fccc3a80ae079bd9a754bf60f58f9e4","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/9288ec977fccc3a80ae079bd9a754bf60f58f9e4"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/images/2020-square-2.png","parents":[{"sha":"775090e4ff1209e75f95f721a2e66f8da652e7d8","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/775090e4ff1209e75f95f721a2e66f8da652e7d8","html_url":"https://github.com/PocketJacks/jigardshah/commit/775090e4ff1209e75f95f721a2e66f8da652e7d8"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png in GitHub
+API response code 201
+API response body {"content":{"name":"2020-three-quarters-1.png","path":"wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png","sha":"d02d9176f0874ceda6ddc01f75b5dc025c59183f","size":2333,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/d02d9176f0874ceda6ddc01f75b5dc025c59183f","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/d02d9176f0874ceda6ddc01f75b5dc025c59183f","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png"}},"commit":{"sha":"9b33627c62a15760df80867995ea4125b84f8a09","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjliMzM2MjdjNjJhMTU3NjBkZjgwODY3OTk1ZWE0MTI1Yjg0ZjhhMDk=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/9b33627c62a15760df80867995ea4125b84f8a09","html_url":"https://github.com/PocketJacks/jigardshah/commit/9b33627c62a15760df80867995ea4125b84f8a09","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:52Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:52Z"},"tree":{"sha":"1a81ce87e7538f249474aaa87f24e3f4da6efb61","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/1a81ce87e7538f249474aaa87f24e3f4da6efb61"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png","parents":[{"sha":"ad5765049cd88efade6f06864257449b764c69af","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/ad5765049cd88efade6f06864257449b764c69af","html_url":"https://github.com/PocketJacks/jigardshah/commit/ad5765049cd88efade6f06864257449b764c69af"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png in GitHub
+API response code 201
+API response body {"content":{"name":"2020-three-quarters-2.png","path":"wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png","sha":"6b1dd1abe35ef112bf243b86864bd73177b86daa","size":2708,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/6b1dd1abe35ef112bf243b86864bd73177b86daa","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/6b1dd1abe35ef112bf243b86864bd73177b86daa","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png"}},"commit":{"sha":"2743c29466001fca09f93de17d5f87a04168e288","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjI3NDNjMjk0NjYwMDFmY2EwOWY5M2RlMTdkNWY4N2EwNDE2OGUyODg=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/2743c29466001fca09f93de17d5f87a04168e288","html_url":"https://github.com/PocketJacks/jigardshah/commit/2743c29466001fca09f93de17d5f87a04168e288","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:54Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:54Z"},"tree":{"sha":"b08d5c5f8bb5928f5fd177f5013028b23304f8cc","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/b08d5c5f8bb5928f5fd177f5013028b23304f8cc"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png","parents":[{"sha":"9b33627c62a15760df80867995ea4125b84f8a09","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/9b33627c62a15760df80867995ea4125b84f8a09","html_url":"https://github.com/PocketJacks/jigardshah/commit/9b33627c62a15760df80867995ea4125b84f8a09"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png in GitHub
+API response code 201
+API response body {"content":{"name":"2020-three-quarters-3.png","path":"wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png","sha":"3675b556f8141d21ae7b0c9c2aad695702d05bcc","size":26106,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3675b556f8141d21ae7b0c9c2aad695702d05bcc","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3675b556f8141d21ae7b0c9c2aad695702d05bcc","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png"}},"commit":{"sha":"0d6ed9af4c77e2d1b5047be4818aba5df2cb8036","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjBkNmVkOWFmNGM3N2UyZDFiNTA0N2JlNDgxOGFiYTVkZjJjYjgwMzY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/0d6ed9af4c77e2d1b5047be4818aba5df2cb8036","html_url":"https://github.com/PocketJacks/jigardshah/commit/0d6ed9af4c77e2d1b5047be4818aba5df2cb8036","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:57Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:57Z"},"tree":{"sha":"de07f93f892a5536c12b8eb8c7b5a0c9b4f4afd2","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/de07f93f892a5536c12b8eb8c7b5a0c9b4f4afd2"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png","parents":[{"sha":"2743c29466001fca09f93de17d5f87a04168e288","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/2743c29466001fca09f93de17d5f87a04168e288","html_url":"https://github.com/PocketJacks/jigardshah/commit/2743c29466001fca09f93de17d5f87a04168e288"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png to wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png in GitHub
+API response code 201
+API response body {"content":{"name":"2020-three-quarters-4.png","path":"wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png","sha":"aa7c7f0d73eb8a07a1c8fd35948bad4e3bf93ed0","size":2185,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/aa7c7f0d73eb8a07a1c8fd35948bad4e3bf93ed0","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/aa7c7f0d73eb8a07a1c8fd35948bad4e3bf93ed0","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png"}},"commit":{"sha":"364bf46e19e1f4fc9eca84c251e2ba0eb8f39549","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjM2NGJmNDZlMTllMWY0ZmM5ZWNhODRjMjUxZTJiYTBlYjhmMzk1NDk=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/364bf46e19e1f4fc9eca84c251e2ba0eb8f39549","html_url":"https://github.com/PocketJacks/jigardshah/commit/364bf46e19e1f4fc9eca84c251e2ba0eb8f39549","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:58Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:51:58Z"},"tree":{"sha":"c3d495aaefe9bb65b4a1f8f991d21b2ad4b154c3","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/c3d495aaefe9bb65b4a1f8f991d21b2ad4b154c3"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png","parents":[{"sha":"0d6ed9af4c77e2d1b5047be4818aba5df2cb8036","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/0d6ed9af4c77e2d1b5047be4818aba5df2cb8036","html_url":"https://github.com/PocketJacks/jigardshah/commit/0d6ed9af4c77e2d1b5047be4818aba5df2cb8036"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/js/color-calculations.js to wp-content/themes/twentytwenty/assets/js/color-calculations.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/js/color-calculations.js in GitHub
+API response code 201
+API response body {"content":{"name":"color-calculations.js","path":"wp-content/themes/twentytwenty/assets/js/color-calculations.js","sha":"2587a4815398fd519154953ef52be3dbba3550d0","size":4491,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/color-calculations.js?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/color-calculations.js","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/2587a4815398fd519154953ef52be3dbba3550d0","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/js/color-calculations.js","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/color-calculations.js?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/2587a4815398fd519154953ef52be3dbba3550d0","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/color-calculations.js"}},"commit":{"sha":"3a8eb6fcca6804af17b813acc710b3fd289a4382","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjNhOGViNmZjY2E2ODA0YWYxN2I4MTNhY2M3MTBiM2ZkMjg5YTQzODI=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/3a8eb6fcca6804af17b813acc710b3fd289a4382","html_url":"https://github.com/PocketJacks/jigardshah/commit/3a8eb6fcca6804af17b813acc710b3fd289a4382","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:00Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:00Z"},"tree":{"sha":"a0d54bdd73cba5cfef20968ecfb8126da10d812b","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/a0d54bdd73cba5cfef20968ecfb8126da10d812b"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/js/color-calculations.js","parents":[{"sha":"364bf46e19e1f4fc9eca84c251e2ba0eb8f39549","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/364bf46e19e1f4fc9eca84c251e2ba0eb8f39549","html_url":"https://github.com/PocketJacks/jigardshah/commit/364bf46e19e1f4fc9eca84c251e2ba0eb8f39549"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/js/customize-controls.js to wp-content/themes/twentytwenty/assets/js/customize-controls.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/js/customize-controls.js in GitHub
+API response code 201
+API response body {"content":{"name":"customize-controls.js","path":"wp-content/themes/twentytwenty/assets/js/customize-controls.js","sha":"4397cf29c75ded15e6e825827c671f9438a9c5bf","size":3822,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/customize-controls.js?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/customize-controls.js","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/4397cf29c75ded15e6e825827c671f9438a9c5bf","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/js/customize-controls.js","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/customize-controls.js?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/4397cf29c75ded15e6e825827c671f9438a9c5bf","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/customize-controls.js"}},"commit":{"sha":"f0834e179a18536d76d42c328a01fcf4793a3ba5","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmYwODM0ZTE3OWExODUzNmQ3NmQ0MmMzMjhhMDFmY2Y0NzkzYTNiYTU=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/f0834e179a18536d76d42c328a01fcf4793a3ba5","html_url":"https://github.com/PocketJacks/jigardshah/commit/f0834e179a18536d76d42c328a01fcf4793a3ba5","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:01Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:01Z"},"tree":{"sha":"82809280241e4993b48933255cb3117e90e5793b","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/82809280241e4993b48933255cb3117e90e5793b"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/js/customize-controls.js","parents":[{"sha":"3a8eb6fcca6804af17b813acc710b3fd289a4382","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/3a8eb6fcca6804af17b813acc710b3fd289a4382","html_url":"https://github.com/PocketJacks/jigardshah/commit/3a8eb6fcca6804af17b813acc710b3fd289a4382"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/js/customize-preview.js to wp-content/themes/twentytwenty/assets/js/customize-preview.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/js/customize-preview.js in GitHub
+API response code 201
+API response body {"content":{"name":"customize-preview.js","path":"wp-content/themes/twentytwenty/assets/js/customize-preview.js","sha":"6bb361c7405216d08083ebba4817474b469e0e3a","size":5647,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/customize-preview.js?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/customize-preview.js","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/6bb361c7405216d08083ebba4817474b469e0e3a","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/js/customize-preview.js","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/customize-preview.js?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/6bb361c7405216d08083ebba4817474b469e0e3a","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/customize-preview.js"}},"commit":{"sha":"a58aa1e042fe9104561ac45000fe72d70cbb53cd","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmE1OGFhMWUwNDJmZTkxMDQ1NjFhYzQ1MDAwZmU3MmQ3MGNiYjUzY2Q=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/a58aa1e042fe9104561ac45000fe72d70cbb53cd","html_url":"https://github.com/PocketJacks/jigardshah/commit/a58aa1e042fe9104561ac45000fe72d70cbb53cd","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:03Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:03Z"},"tree":{"sha":"3cdb87ddbc8373af178a42f443802340e6ef2545","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/3cdb87ddbc8373af178a42f443802340e6ef2545"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/js/customize-preview.js","parents":[{"sha":"f0834e179a18536d76d42c328a01fcf4793a3ba5","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/f0834e179a18536d76d42c328a01fcf4793a3ba5","html_url":"https://github.com/PocketJacks/jigardshah/commit/f0834e179a18536d76d42c328a01fcf4793a3ba5"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/js/customize.js to wp-content/themes/twentytwenty/assets/js/customize.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/js/customize.js in GitHub
+API response code 201
+API response body {"content":{"name":"customize.js","path":"wp-content/themes/twentytwenty/assets/js/customize.js","sha":"2a38ace1d86d55c5df01ad2ccc5a13098532ea9b","size":839,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/customize.js?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/customize.js","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/2a38ace1d86d55c5df01ad2ccc5a13098532ea9b","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/js/customize.js","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/customize.js?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/2a38ace1d86d55c5df01ad2ccc5a13098532ea9b","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/customize.js"}},"commit":{"sha":"d22e743f3097917ca809b52afe62978fb5e2b886","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmQyMmU3NDNmMzA5NzkxN2NhODA5YjUyYWZlNjI5NzhmYjVlMmI4ODY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/d22e743f3097917ca809b52afe62978fb5e2b886","html_url":"https://github.com/PocketJacks/jigardshah/commit/d22e743f3097917ca809b52afe62978fb5e2b886","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:05Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:05Z"},"tree":{"sha":"cbbcbcbfc8fb21cf423fff07a313a3d303f72408","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/cbbcbcbfc8fb21cf423fff07a313a3d303f72408"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/js/customize.js","parents":[{"sha":"a58aa1e042fe9104561ac45000fe72d70cbb53cd","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/a58aa1e042fe9104561ac45000fe72d70cbb53cd","html_url":"https://github.com/PocketJacks/jigardshah/commit/a58aa1e042fe9104561ac45000fe72d70cbb53cd"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/js/editor-script-block.js to wp-content/themes/twentytwenty/assets/js/editor-script-block.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/js/editor-script-block.js in GitHub
+API response code 201
+API response body {"content":{"name":"editor-script-block.js","path":"wp-content/themes/twentytwenty/assets/js/editor-script-block.js","sha":"3ff08d537aacbbec28daa919c02c99e689525b85","size":178,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/editor-script-block.js?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/editor-script-block.js","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3ff08d537aacbbec28daa919c02c99e689525b85","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/js/editor-script-block.js","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/editor-script-block.js?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3ff08d537aacbbec28daa919c02c99e689525b85","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/editor-script-block.js"}},"commit":{"sha":"e8f1642942243a2b1ea599c160c6dc6313a9dfe9","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmU4ZjE2NDI5NDIyNDNhMmIxZWE1OTljMTYwYzZkYzYzMTNhOWRmZTk=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/e8f1642942243a2b1ea599c160c6dc6313a9dfe9","html_url":"https://github.com/PocketJacks/jigardshah/commit/e8f1642942243a2b1ea599c160c6dc6313a9dfe9","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:06Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:06Z"},"tree":{"sha":"67196a4be84358f21d21bc697ea57afc572fd73c","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/67196a4be84358f21d21bc697ea57afc572fd73c"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/js/editor-script-block.js","parents":[{"sha":"d22e743f3097917ca809b52afe62978fb5e2b886","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/d22e743f3097917ca809b52afe62978fb5e2b886","html_url":"https://github.com/PocketJacks/jigardshah/commit/d22e743f3097917ca809b52afe62978fb5e2b886"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/js/index.js to wp-content/themes/twentytwenty/assets/js/index.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/js/index.js in GitHub
+API response code 201
+API response body {"content":{"name":"index.js","path":"wp-content/themes/twentytwenty/assets/js/index.js","sha":"5b2a9b2278a65fa4585e291a0fc123e1e8138a8c","size":25570,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/index.js?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/index.js","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/5b2a9b2278a65fa4585e291a0fc123e1e8138a8c","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/js/index.js","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/index.js?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/5b2a9b2278a65fa4585e291a0fc123e1e8138a8c","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/index.js"}},"commit":{"sha":"4cd6cba24433d882162b00349b6b10af5cb4e342","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjRjZDZjYmEyNDQzM2Q4ODIxNjJiMDAzNDliNmIxMGFmNWNiNGUzNDI=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/4cd6cba24433d882162b00349b6b10af5cb4e342","html_url":"https://github.com/PocketJacks/jigardshah/commit/4cd6cba24433d882162b00349b6b10af5cb4e342","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:08Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:08Z"},"tree":{"sha":"7c08d29baa0e6a7f4769427ad4c3583b57312e57","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/7c08d29baa0e6a7f4769427ad4c3583b57312e57"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/js/index.js","parents":[{"sha":"e8f1642942243a2b1ea599c160c6dc6313a9dfe9","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/e8f1642942243a2b1ea599c160c6dc6313a9dfe9","html_url":"https://github.com/PocketJacks/jigardshah/commit/e8f1642942243a2b1ea599c160c6dc6313a9dfe9"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js to wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js in GitHub
+API response code 201
+API response body {"content":{"name":"skip-link-focus-fix.js","path":"wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js","sha":"181b7979966ecbcd7e7b9de16473e742f43724d5","size":792,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/181b7979966ecbcd7e7b9de16473e742f43724d5","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/181b7979966ecbcd7e7b9de16473e742f43724d5","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js"}},"commit":{"sha":"bdd1c7f3c098de995627e0b1ed4ca6eef4147c6f","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmJkZDFjN2YzYzA5OGRlOTk1NjI3ZTBiMWVkNGNhNmVlZjQxNDdjNmY=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/bdd1c7f3c098de995627e0b1ed4ca6eef4147c6f","html_url":"https://github.com/PocketJacks/jigardshah/commit/bdd1c7f3c098de995627e0b1ed4ca6eef4147c6f","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:10Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:10Z"},"tree":{"sha":"9d23044f0cc4638d92610014456ea0516dff2756","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/9d23044f0cc4638d92610014456ea0516dff2756"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js","parents":[{"sha":"4cd6cba24433d882162b00349b6b10af5cb4e342","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/4cd6cba24433d882162b00349b6b10af5cb4e342","html_url":"https://github.com/PocketJacks/jigardshah/commit/4cd6cba24433d882162b00349b6b10af5cb4e342"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/package-lock.json to wp-content/themes/twentytwenty/package-lock.json in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/package-lock.json in GitHub
+API response code 201
+API response body {"content":{"name":"package-lock.json","path":"wp-content/themes/twentytwenty/package-lock.json","sha":"5c6c38911b59e3310ae805cb7ff2bc56253dd332","size":477459,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/package-lock.json?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/package-lock.json","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/5c6c38911b59e3310ae805cb7ff2bc56253dd332","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/package-lock.json","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/package-lock.json?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/5c6c38911b59e3310ae805cb7ff2bc56253dd332","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/package-lock.json"}},"commit":{"sha":"9fb1ef66dc01c01ffe07e8473572f7d99b7e0123","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjlmYjFlZjY2ZGMwMWMwMWZmZTA3ZTg0NzM1NzJmN2Q5OWI3ZTAxMjM=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/9fb1ef66dc01c01ffe07e8473572f7d99b7e0123","html_url":"https://github.com/PocketJacks/jigardshah/commit/9fb1ef66dc01c01ffe07e8473572f7d99b7e0123","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:12Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:12Z"},"tree":{"sha":"0b4b177afbb6e4533154d5a6f61804b2692a85a9","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/0b4b177afbb6e4533154d5a6f61804b2692a85a9"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/package-lock.json","parents":[{"sha":"bdd1c7f3c098de995627e0b1ed4ca6eef4147c6f","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/bdd1c7f3c098de995627e0b1ed4ca6eef4147c6f","html_url":"https://github.com/PocketJacks/jigardshah/commit/bdd1c7f3c098de995627e0b1ed4ca6eef4147c6f"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/print.css to wp-content/themes/twentytwenty/print.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/print.css in GitHub
+API response code 201
+API response body {"content":{"name":"print.css","path":"wp-content/themes/twentytwenty/print.css","sha":"c82e9d8b90ee20551c7d687a6f7ffc5cfeb05447","size":1624,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/print.css?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/print.css","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/c82e9d8b90ee20551c7d687a6f7ffc5cfeb05447","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/print.css","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/print.css?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/c82e9d8b90ee20551c7d687a6f7ffc5cfeb05447","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/print.css"}},"commit":{"sha":"b5569b82291fc4737accc4071db898ac124a11d5","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmI1NTY5YjgyMjkxZmM0NzM3YWNjYzQwNzFkYjg5OGFjMTI0YTExZDU=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/b5569b82291fc4737accc4071db898ac124a11d5","html_url":"https://github.com/PocketJacks/jigardshah/commit/b5569b82291fc4737accc4071db898ac124a11d5","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:14Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:14Z"},"tree":{"sha":"ee652948018543a8aa279b7f149e873e4b7a5906","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/ee652948018543a8aa279b7f149e873e4b7a5906"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/print.css","parents":[{"sha":"9fb1ef66dc01c01ffe07e8473572f7d99b7e0123","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/9fb1ef66dc01c01ffe07e8473572f7d99b7e0123","html_url":"https://github.com/PocketJacks/jigardshah/commit/9fb1ef66dc01c01ffe07e8473572f7d99b7e0123"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/screenshot.png to wp-content/themes/twentytwenty/screenshot.png in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/screenshot.png in GitHub
+API response code 201
+API response body {"content":{"name":"screenshot.png","path":"wp-content/themes/twentytwenty/screenshot.png","sha":"c2359ec8af5c6ea15ca0727bdb886e2bbcbc100a","size":53066,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/screenshot.png?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/screenshot.png","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/c2359ec8af5c6ea15ca0727bdb886e2bbcbc100a","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/screenshot.png","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/screenshot.png?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/c2359ec8af5c6ea15ca0727bdb886e2bbcbc100a","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/screenshot.png"}},"commit":{"sha":"94221fa160e35131e7f18d348bd7f7a59f4b134a","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjk0MjIxZmExNjBlMzUxMzFlN2YxOGQzNDhiZDdmN2E1OWY0YjEzNGE=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/94221fa160e35131e7f18d348bd7f7a59f4b134a","html_url":"https://github.com/PocketJacks/jigardshah/commit/94221fa160e35131e7f18d348bd7f7a59f4b134a","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:16Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:16Z"},"tree":{"sha":"916e2ece2cf064b1da9156f80f0c244525a12126","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/916e2ece2cf064b1da9156f80f0c244525a12126"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/screenshot.png","parents":[{"sha":"b5569b82291fc4737accc4071db898ac124a11d5","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/b5569b82291fc4737accc4071db898ac124a11d5","html_url":"https://github.com/PocketJacks/jigardshah/commit/b5569b82291fc4737accc4071db898ac124a11d5"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/style-rtl.css to wp-content/themes/twentytwenty/style-rtl.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/style-rtl.css in GitHub
+API response code 201
+API response body {"content":{"name":"style-rtl.css","path":"wp-content/themes/twentytwenty/style-rtl.css","sha":"3460a6cc253a21d284f46a3e557334d716f29dc4","size":95732,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/style-rtl.css?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/style-rtl.css","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3460a6cc253a21d284f46a3e557334d716f29dc4","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/style-rtl.css","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/style-rtl.css?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/3460a6cc253a21d284f46a3e557334d716f29dc4","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/style-rtl.css"}},"commit":{"sha":"0116bf04ec9a177d5d14005c498e2f1655684de7","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjAxMTZiZjA0ZWM5YTE3N2Q1ZDE0MDA1YzQ5OGUyZjE2NTU2ODRkZTc=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/0116bf04ec9a177d5d14005c498e2f1655684de7","html_url":"https://github.com/PocketJacks/jigardshah/commit/0116bf04ec9a177d5d14005c498e2f1655684de7","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:18Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:18Z"},"tree":{"sha":"9361be074f81d62ce172c9800a1749dac8fee950","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/9361be074f81d62ce172c9800a1749dac8fee950"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/style-rtl.css","parents":[{"sha":"94221fa160e35131e7f18d348bd7f7a59f4b134a","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/94221fa160e35131e7f18d348bd7f7a59f4b134a","html_url":"https://github.com/PocketJacks/jigardshah/commit/94221fa160e35131e7f18d348bd7f7a59f4b134a"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-content/themes/twentytwenty/style.css to wp-content/themes/twentytwenty/style.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-content/themes/twentytwenty/style.css in GitHub
+API response code 201
+API response body {"content":{"name":"style.css","path":"wp-content/themes/twentytwenty/style.css","sha":"9f6e62e906d07af18647b011173e220cff91925d","size":95716,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/style.css?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/style.css","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/9f6e62e906d07af18647b011173e220cff91925d","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-content/themes/twentytwenty/style.css","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-content/themes/twentytwenty/style.css?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/9f6e62e906d07af18647b011173e220cff91925d","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-content/themes/twentytwenty/style.css"}},"commit":{"sha":"f7a8dabd5f2dd164ffad26314ad3590dbb570dc1","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOmY3YThkYWJkNWYyZGQxNjRmZmFkMjYzMTRhZDM1OTBkYmI1NzBkYzE=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/f7a8dabd5f2dd164ffad26314ad3590dbb570dc1","html_url":"https://github.com/PocketJacks/jigardshah/commit/f7a8dabd5f2dd164ffad26314ad3590dbb570dc1","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:20Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:20Z"},"tree":{"sha":"d3c51bfd1e9a82b6e0081d62c4ffd3b3e110af07","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/d3c51bfd1e9a82b6e0081d62c4ffd3b3e110af07"},"message":"WP2Static CREATE wp-content/themes/twentytwenty/style.css","parents":[{"sha":"0116bf04ec9a177d5d14005c498e2f1655684de7","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/0116bf04ec9a177d5d14005c498e2f1655684de7","html_url":"https://github.com/PocketJacks/jigardshah/commit/0116bf04ec9a177d5d14005c498e2f1655684de7"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Website/www/wordpress/wp-content/uploads/wp-static-html-output-1598709046/wp-includes/css/dist/block-library/style.min.css to wp-includes/css/dist/block-library/style.min.css in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating wp-includes/css/dist/block-library/style.min.css in GitHub
+API response code 201
+API response body {"content":{"name":"style.min.css","path":"wp-includes/css/dist/block-library/style.min.css","sha":"25d41797e3393cfd7dfdf8d554dfedb7171bc2dd","size":56223,"url":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-includes/css/dist/block-library/style.min.css?ref=gh-pages","html_url":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-includes/css/dist/block-library/style.min.css","git_url":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/25d41797e3393cfd7dfdf8d554dfedb7171bc2dd","download_url":"https://raw.githubusercontent.com/PocketJacks/jigardshah/gh-pages/wp-includes/css/dist/block-library/style.min.css","type":"file","_links":{"self":"https://api.github.com/repos/PocketJacks/jigardshah/contents/wp-includes/css/dist/block-library/style.min.css?ref=gh-pages","git":"https://api.github.com/repos/PocketJacks/jigardshah/git/blobs/25d41797e3393cfd7dfdf8d554dfedb7171bc2dd","html":"https://github.com/PocketJacks/jigardshah/blob/gh-pages/wp-includes/css/dist/block-library/style.min.css"}},"commit":{"sha":"0e50456ad136cb3fd24363c1fd926e0c99884a67","node_id":"MDY6Q29tbWl0MjkxMjQzMjcxOjBlNTA0NTZhZDEzNmNiM2ZkMjQzNjNjMWZkOTI2ZTBjOTk4ODRhNjc=","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/0e50456ad136cb3fd24363c1fd926e0c99884a67","html_url":"https://github.com/PocketJacks/jigardshah/commit/0e50456ad136cb3fd24363c1fd926e0c99884a67","author":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:22Z"},"committer":{"name":"PocketJacks","email":"PocketJacks@users.noreply.github.com","date":"2020-08-29T13:52:22Z"},"tree":{"sha":"56b5b8c22a89b0fafa5d0b0b6a35802e8b720c19","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/trees/56b5b8c22a89b0fafa5d0b0b6a35802e8b720c19"},"message":"WP2Static CREATE wp-includes/css/dist/block-library/style.min.css","parents":[{"sha":"f7a8dabd5f2dd164ffad26314ad3590dbb570dc1","url":"https://api.github.com/repos/PocketJacks/jigardshah/git/commits/f7a8dabd5f2dd164ffad26314ad3590dbb570dc1","html_url":"https://github.com/PocketJacks/jigardshah/commit/f7a8dabd5f2dd164ffad26314ad3590dbb570dc1"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
